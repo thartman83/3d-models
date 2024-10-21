@@ -1,0 +1,10 @@
+#+TITLE: Magnetic Cable Clamp
+#+AUTHOR: Tom Hartman
+
+* General
+These are designed to be a fairly low profile socket for cable management on a multi-board. The design should fit most usb cables that i've tested and hold them reasonably securely.
+
+* Printing
+This print requires 10 5x2mm disc magnets to be added mid print. On my printer those were roughly around the layer 13 and 14 mark but your slicer may be different so please review before printing. There should be a decent amount of tolerance for the magnets without being too loose. Thoughts and notes are greatly appreciated.
+
+Note for the cable-clamp file. I used supports under near the gap between the socket base and the hanging end of the actual clamp. When you add supports do not forget to block supports for the magnets. I used a 40x40x5mm cube support blocker at the same height as the model. I also added additional support blockers for the arch of the clamp only needing them for the gap itself though your mileage may vary.
